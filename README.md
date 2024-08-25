@@ -6,7 +6,7 @@
 </p>
 
 👯 I’m looking to collaborate on CTF competition (Main in Web Exploitation) <br>
-📝 I regularly share articles on [HackMD](https://hackmd.io/@archie-) <br>
+📝 I regularly share articles/write up on [HackMD](https://hackmd.io/@archie-) <br>
 💬 Ask me anything about Cybersecurity <br>
 
 <h3 align="left">Connect with me:</h3>
