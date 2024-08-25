@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=archierz&label=Profile%20views&color=0e75b6&style=flat" alt="archierz" />
 </p>
 
-👯 I’m looking to collaborate on CTF competition <br>
+👯 I’m looking to collaborate on CTF competition (Main in Web Exploitation) <br>
 📝 I regularly share articles on [HackMD](https://hackmd.io/@archie-) <br>
 💬 Ask me anything about Cybersecurity <br>
 
