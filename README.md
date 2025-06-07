@@ -6,7 +6,7 @@
 </p>
 
 👯 I’m looking to collaborate on CTF competition (Main in Web Exploitation) <br>
-📝 I regularly share articles/write up on [HackMD](https://hackmd.io/@archie-) <br>
+📝 I regularly share articles/write up on [HackMD](https://hackmd.io/@archie-) and [Medium](https://medium.com/@zidan.ramadhan102) <br>
 📝 My hackbook with personal tips and tricks on what I've found from CTF and Machines is here: [Gitbook](https://archierzs-playbook.gitbook.io/archiezs-hackbook/) <br>
 💬 Lets be friend 🔥 <br>
 
