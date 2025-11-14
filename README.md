@@ -1,5 +1,10 @@
-<h1 align="left">Hi 👋, I'm Muhammad Zidan Ramadhan</h1>
-<p align="left">I'm a 7th-semester Informatics student at Gunadarma University with a strong passion for technology, especially in the field of cybersecurity. As an active member of the Cyber Community at Universitas Gunadarma, I regularly participate in Capture The Flag (CTF) challenges to sharpen my web exploitation skills. I enjoy documenting my projects and writing detailed write-ups for CTF challenges and boxes, which you can find here. Feel free to reach out to me!</p>
+<h1 align="left">Hi 👋, I'm Muhammad Zidan Ramadhan, You can call me 'Zidan', 'Rama', or anything else</h1>
+<p align="left">Fresh Graduate in Informatics (Gunadarma University, 2025) with a strong interest in Offensive Security and hands- on experience in securing
+application development. Developed security protections in two web app projects and created a custom tool for ZIP/RAR file extraction and brute
+forcing, additionally created a ML- based phishing website detection with 98% accuracy featuring integrated web server and Chrome extension to
+provide real-time detection. Proficient in Burp Suite, Linux, Nessus, Postman, and Python with solid analytical thinking skills for identifying any
+vulnerabilities and strengthening system security. Even though I mainly in offensive security, I highly motivated to grow and ready to take on new challenges in
+cybersecurity fields.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=archierz&label=Profile%20views&color=0e75b6&style=flat" alt="archierz" />
@@ -7,7 +12,8 @@
 
 👯 I’m looking to collaborate on CTF competition (Main in Web Exploitation) <br>
 📝 I regularly share articles/write up on [HackMD](https://hackmd.io/@archie-) and [Medium](https://medium.com/@zidan.ramadhan102) <br>
-📝 My hackbook with personal tips and tricks on what I've found from CTF and Machines is here: [Gitbook](https://archierzs-playbook.gitbook.io/archiezs-hackbook/) <br>
+📝 My hackbook with personal tips and tricks on what I've found from CTF and HTB Machines/Labs is here: [Gitbook](https://archierzs-playbook.gitbook.io/archiezs-hackbook/) <br>
+📝 My HacKTheBox profile is here: [HTB Profile](https://app.hackthebox.com/profile/1494188) <br>
 💬 Lets be friend 🔥 <br>
 
 <h3 align="left">Connect with me:</h3>
